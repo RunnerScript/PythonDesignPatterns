@@ -1,6 +1,7 @@
 from enum import Enum
 
 class NotificationType(Enum):
-    EMAIL = 'email'
-    SMS = 'sms'
-    PUSH = 'push'
+    EMAIL='EMAIL'
+    SMS = 'SMS'
+    PUSH = 'PUSH'
+
